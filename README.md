@@ -22,7 +22,7 @@ The program determines the winner based on the game rules and keeps track of the
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/aditya3897singh/CODSOFT_3.git
 ```
 
 ### 2. Navigate to the Project Directory
